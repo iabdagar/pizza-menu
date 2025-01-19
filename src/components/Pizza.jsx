@@ -116,7 +116,7 @@ function Pizza() {
 function Header() {
   return (
     <header className="header">
-      <h1>Ab Pizza Co</h1>
+      <h1>Anb Pizza Co.</h1>
     </header>
   );
 }
